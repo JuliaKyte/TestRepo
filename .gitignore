@@ -1,1 +1,5 @@
-*.log TEST*.xml *.jar
+*.log 
+TEST*.xml 
+*.jar
+
+*.txt
